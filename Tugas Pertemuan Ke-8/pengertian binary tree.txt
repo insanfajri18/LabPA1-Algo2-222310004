@@ -1,0 +1,5 @@
+Binary Tree adalah struktur data yang mirip dengan Linked List. Bila
+Linked List dianalogikan sebagai rantai yang linier maka Binary Tree
+dianalogikan sebagai pohon. Binary Tree dikelompokkan menjadi tree
+yang tidak berurut (unordered Binary Tree) dan tree yang terurut
+(ordered Binary Tree). 

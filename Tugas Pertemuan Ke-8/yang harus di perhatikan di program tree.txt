@@ -1,0 +1,7 @@
+1. Tree dengan syarat bahwa tiap node hanya boleh memiliki maksimal dua sub pohon dan kedua subpohon harus terpisah.
+
+2. data yang pertama kali masuk akan menjadi Node Root.
+
+3. data yang lebih kecil dari node root akan masuk dan menempati node kiri dari node Root
+
+4. Jika ada Data yang lebih besar dari Node Root maka akan masuk dan menempati node sebelah kanan dari Node Root
